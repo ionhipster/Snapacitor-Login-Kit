@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/SnapSDK/SnapSDK-xcframeworks.sh
+${PODS_ROOT}/SnapSDK/SCSDKBitmojiKit.xcframework
+${PODS_ROOT}/SnapSDK/SCSDKCoreKit.xcframework
+${PODS_ROOT}/SnapSDK/SCSDKCreativeKit.xcframework
+${PODS_ROOT}/SnapSDK/SCSDKLoginKit.xcframework
+${PODS_ROOT}/SnapSDK/SCSDKStoryKit.xcframework
