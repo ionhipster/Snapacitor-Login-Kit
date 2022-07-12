@@ -1,7 +1,7 @@
 {
   "name": "snapacitor-login-kit",
-  "version": "0.0.1",
-  "description": "snapchat login kit via ionic angular",
+  "version": "0.0.3",
+  "description": "Capacitor plugin for native Snapchat login.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -25,7 +25,8 @@
   "keywords": [
     "capacitor",
     "plugin",
-    "native"
+    "snapchat",
+    "ionic"
   ],
   "scripts": {
     "verify": "npm run verify:ios && npm run verify:android && npm run verify:web",
